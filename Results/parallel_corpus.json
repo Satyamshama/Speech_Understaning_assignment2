@@ -1,0 +1,182 @@
+{
+  "speech": [
+    "बोली",
+    "boli"
+  ],
+  "sound": [
+    "आवाज़",
+    "sawaz"
+  ],
+  "frequency": [
+    "आवृत्ति",
+    "aabrthi"
+  ],
+  "signal": [
+    "संकेत",
+    "sanket"
+  ],
+  "noise": [
+    "शोर",
+    "hor"
+  ],
+  "voice": [
+    "आवाज़",
+    "aawaaj"
+  ],
+  "language": [
+    "भाषा",
+    "bhasha"
+  ],
+  "word": [
+    "शब्द",
+    "sabd"
+  ],
+  "sentence": [
+    "वाक्य",
+    "waakya"
+  ],
+  "phoneme": [
+    "स्वनिम",
+    "swanim"
+  ],
+  "speaker": [
+    "वक्ता",
+    "wakta"
+  ],
+  "model": [
+    "मॉडल",
+    "modal"
+  ],
+  "training": [
+    "प्रशिक्षण",
+    "prashikshan"
+  ],
+  "feature": [
+    "विशेषता",
+    "bisheshta"
+  ],
+  "vector": [
+    "सदिश",
+    "sadish"
+  ],
+  "spectrum": [
+    "स्पेक्ट्रम",
+    "spectrum"
+  ],
+  "acoustic": [
+    "ध्वनिक",
+    "dhwanik"
+  ],
+  "filter": [
+    "फ़िल्टर",
+    "filter"
+  ],
+  "energy": [
+    "ऊर्जा",
+    "urja"
+  ],
+  "pitch": [
+    "तारता",
+    "tarata"
+  ],
+  "transcription": [
+    "लिप्यंतरण",
+    "lipyantaran"
+  ],
+  "recognition": [
+    "पहचान",
+    "pahchan"
+  ],
+  "synthesis": [
+    "संश्लेषण",
+    "sanshleshan"
+  ],
+  "embedding": [
+    "अंतःस्थापन",
+    "antahstapan"
+  ],
+  "attention": [
+    "ध्यान",
+    "dhyan"
+  ],
+  "encoder": [
+    "कूटक",
+    "kootak"
+  ],
+  "decoder": [
+    "व्याख्याता",
+    "byakhyata"
+  ],
+  "error": [
+    "त्रुटि",
+    "truti"
+  ],
+  "sampling": [
+    "नमूनाकरण",
+    "namunaakaran"
+  ],
+  "transform": [
+    "रूपांतरण",
+    "roopantaran"
+  ],
+  "cepstrum": [
+    "सेप्स्ट्रम",
+    "cepstrum"
+  ],
+  "mel": [
+    "मेल",
+    "mel"
+  ],
+  "coefficient": [
+    "गुणांक",
+    "gunaank"
+  ],
+  "markov": [
+    "मार्कोव",
+    "markov"
+  ],
+  "gaussian": [
+    "गाउसियन",
+    "gaussian"
+  ],
+  "neural": [
+    "तंत्रिका",
+    "tantrika"
+  ],
+  "network": [
+    "नेटवर्क",
+    "network"
+  ],
+  "deep": [
+    "गहरा",
+    "gehra"
+  ],
+  "learning": [
+    "सीखना",
+    "sikhna"
+  ],
+  "hidden": [
+    "छिपा",
+    "chhipa"
+  ],
+  "mixture": [
+    "मिश्रण",
+    "mishran"
+  ],
+  "digital": [
+    "डिजिटल",
+    "digital"
+  ],
+  "rate": [
+    "दर",
+    "dar"
+  ],
+  "search": [
+    "खोज",
+    "khoj"
+  ],
+  "beam": [
+    "किरण",
+    "kiran"
+  ]
+}
